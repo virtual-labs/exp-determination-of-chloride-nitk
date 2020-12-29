@@ -11,9 +11,6 @@ Projects funded by Govt. of India for the welfare of rivers like Namami Gange in
 
 <h5> About the Experiment : </h5>
 
-
-
-
 <h5> Target Audience : </h5>
 <li>Under Graduate</li>
 <li>B.E/B.Tech in Civil Engineering and Environment Engineering</li>
@@ -25,8 +22,8 @@ Projects funded by Govt. of India for the welfare of rivers like Namami Gange in
 
 Following are the courses in which one can come across the theory connected to the experiments in this lab :
 <li>Environmental Engineering - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University, Goa University</li>
-<li>Environmental Engineering II - APJ Abdul Kalam Technological University</li>
 <li>Environmental Engineering Laboratory - National Institute of Technology Karnataka Surathkal, APJ Abdul Kalam Technological University </li>
+<li>Environmental Engineering II - APJ Abdul Kalam Technological University</li>
 <li>Waste Supply Engineering - Anna University</li>
 <li>Water and Waste Water Analysis Laboratory - Anna University</li>
 
