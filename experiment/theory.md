@@ -18,5 +18,7 @@
 
 <p align="center">(Eg.2) : 2Ag<sup>+</sup> + CrO<sub>4</sub><sup>2-</sup> ⇔  Ag<sub>2</sub>CrO<sub>4</sub> (Ksp=5×10<sup>-12</sup>)</p>
 
+<p style="text-indent:50px; text-align:justify;">This method can be used to determine the chloride ion concentration of water samples from many sources such as seawater, stream water, river water and estuary water.  If the solutions are acidic, the gravimetric method should be used.</p>
+
 #### Relevant Indian Standard for Chloride in Water Test :
 1. IS 3025 (Part 32) -1988: Method of Sampling and Test (Physical and Chemical) for Water and Wastewater- Chlorides, First Revision.
